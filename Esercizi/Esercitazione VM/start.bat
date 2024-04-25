@@ -1,0 +1,1 @@
+java -jar Server-20210212--A.jar

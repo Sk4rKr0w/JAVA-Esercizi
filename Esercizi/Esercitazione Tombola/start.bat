@@ -1,0 +1,1 @@
+java -jar 2020-09-10-server.jar
